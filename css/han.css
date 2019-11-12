@@ -1,0 +1,22 @@
+body
+{
+	margin: 0;
+	font-family: Helvetica, Ariel, sans-serif;
+}
+header
+{
+	background-color: #FFC0CB;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1
+{
+	color: white;
+}
+header img
+{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid #D8BFD8;
+}
